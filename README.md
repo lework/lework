@@ -5,6 +5,6 @@
 
 > Study hard, improve every day.
 
-🇨🇳 China Shanghai ・🕹 Devops
+🇨🇳 China Shanghai ・🕹 Devops and SRE
 
 https://lework.github.io/
